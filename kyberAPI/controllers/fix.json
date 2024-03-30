@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Title1",
+    "description": "Sight symbol",
+    "price": 10.99,
+    "gltfFileName": "symbol2.gltf",
+    "thumbnailImageName": "card.png",
+    "categoryList": ["category1", "category2"]
+  },
+  {
+    "title": "Title2",
+    "description": "Sight symbol",
+    "price": 12.99,
+    "gltfFileName": "symbol2.gltf",
+    "thumbnailImageName": "card.png",
+    "categoryList": ["category1", "category3"]
+  },
+  {
+    "title": "Title3",
+    "description": "Sight symbol",
+    "price": 9.99,
+    "gltfFileName": "symbol2.gltf",
+    "thumbnailImageName": "card.png",
+    "categoryList": ["category2", "category3"]
+  },
+  {
+    "title": "Title4",
+    "description": "Sight symbol",
+    "price": 14.99,
+    "gltfFileName": "symbol2.gltf",
+    "thumbnailImageName": "card.png",
+    "categoryList": ["category1"]
+  },
+  {
+    "title": "Title5",
+    "description": "Sight symbol",
+    "price": 11.99,
+    "gltfFileName": "symbol2.gltf",
+    "thumbnailImageName": "card.png",
+    "categoryList": ["category2"]
+  },
+  {
+    "title": "Title6",
+    "description": "Sight symbol",
+    "price": 13.99,
+    "gltfFileName": "symbol2.gltf",
+    "thumbnailImageName": "card.png",
+    "categoryList": ["category3"]
+  }
+]
